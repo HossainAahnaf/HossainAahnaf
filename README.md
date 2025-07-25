@@ -1,5 +1,5 @@
 ## Hi there, I'm Hossain 👋   
-
+![Profile Image](pfp.jpg)
 I'm heading to **NYU** this fall to study **Finance**, with my eyes set on the fast-paced world of trading and investment banking. I’m using GitHub to stay organized, document my growth, and maybe build a few tools or projects along the way.
 
 ---
