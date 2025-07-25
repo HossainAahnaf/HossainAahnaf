@@ -1,5 +1,5 @@
 ## Hi there, I'm Hossain 👋   
-![Profile Image](https://your-image-url.com/your-photo.jpg) *(Upload a profile photo and paste the link here or host it on Imgur/GitHub)*
+![Profile Image](pfp.jpg) *(Upload a profile photo and paste the link here or host it on Imgur/GitHub)*
 
 I'm heading to **NYU** this fall to study **Finance**, with my eyes set on the fast-paced world of trading and investment banking. I’m using GitHub to stay organized, document my growth, and maybe build a few tools or projects along the way.
 
